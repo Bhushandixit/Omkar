@@ -153,9 +153,8 @@ span{
 
 .team-details{
     display: grid;
-    grid-template-columns: repeat(auto-fill, 25rem);
-    justify-content: center;
-    margin-left: 65px;
+    grid-template-columns: repeat(auto-fill, 20rem)
+    
 }
 
 .profile{
